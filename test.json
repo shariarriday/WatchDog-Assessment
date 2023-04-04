@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "cmd.exe",
+        "command" : "",
+        "path" : "cmd.exe"
+    },
+    {
+        "name" : "Notepad.exe",
+        "command" : "",
+        "path" : "Notepad.exe"
+    }
+]
